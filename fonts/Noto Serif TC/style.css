@@ -1,0 +1,49 @@
+@font-face {
+   font-family: 'Noto Serif TC';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 200;
+   src: url('file:///N:/WEB/sp88.com.tw/www/v2/Design/fonts/Noto Serif TC/200.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Serif TC';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 300;
+   src: url('file:///N:/WEB/sp88.com.tw/www/v2/Design/fonts/Noto Serif TC/300.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Serif TC';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 500;
+   src: url('file:///N:/WEB/sp88.com.tw/www/v2/Design/fonts/Noto Serif TC/500.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Serif TC';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 600;
+   src: url('file:///N:/WEB/sp88.com.tw/www/v2/Design/fonts/Noto Serif TC/600.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Serif TC';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///N:/WEB/sp88.com.tw/www/v2/Design/fonts/Noto Serif TC/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Serif TC';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 900;
+   src: url('file:///N:/WEB/sp88.com.tw/www/v2/Design/fonts/Noto Serif TC/900.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Serif TC';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///N:/WEB/sp88.com.tw/www/v2/Design/fonts/Noto Serif TC/regular.ttf') format('truetype');
+}

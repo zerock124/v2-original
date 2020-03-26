@@ -100,7 +100,8 @@
     "sitemapSwitcherAuto": false,
     "pwa-switcher": false,
     "publishType": "local",
-    "publishPath": "file:///N:/WEB/sp88.com.tw/www"
+    "publishPath": "file:///N:/WEB/sp88.com.tw/www",
+    "imageResize": true
   },
   "pages": {
     "index.html": {
