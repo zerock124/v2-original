@@ -1,0 +1,42 @@
+@font-face {
+   font-family: 'Noto Sans SC';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 100;
+   src: url('file:///N:/WEB/sp88.com.tw/www/v2/Design/history/fonts/Noto Sans SC/100.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Sans SC';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 300;
+   src: url('file:///N:/WEB/sp88.com.tw/www/v2/Design/history/fonts/Noto Sans SC/300.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Sans SC';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 500;
+   src: url('file:///N:/WEB/sp88.com.tw/www/v2/Design/history/fonts/Noto Sans SC/500.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Sans SC';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///N:/WEB/sp88.com.tw/www/v2/Design/history/fonts/Noto Sans SC/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Sans SC';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 900;
+   src: url('file:///N:/WEB/sp88.com.tw/www/v2/Design/history/fonts/Noto Sans SC/900.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Sans SC';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///N:/WEB/sp88.com.tw/www/v2/Design/history/fonts/Noto Sans SC/regular.ttf') format('truetype');
+}
